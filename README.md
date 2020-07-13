@@ -14,18 +14,18 @@ In the output layer as there is two output as it is a binary classification and 
 
 # Summary of Model:
 
-[Summary of Model](https://github.com/rakib1521/Pneumonia_Xray_Detection/blob/master/Model/Pneumonia_Xray_Detection_model.png)
+![Summary of Model](https://github.com/rakib1521/Pneumonia_Xray_Detection/blob/master/Model/Pneumonia_Xray_Detection_model.png)
 
 
 # Detail of Model:
 
-[Detail of Model](https://github.com/rakib1521/Pneumonia_Xray_Detection/blob/master/Model/Pneumonia_Xray_Detection_model_detail.PNG)
+![Detail of Model](https://github.com/rakib1521/Pneumonia_Xray_Detection/blob/master/Model/Pneumonia_Xray_Detection_model_detail.PNG)
 
 # Training and validation accuracy:
-![accuracy](https://github.com/rakib1521/Face-Mask-Detection/blob/master/Training%20and%20validation%20accuracy.png)
+![accuracy](https://github.com/rakib1521/Pneumonia_Xray_Detection/blob/master/Photos/Pneumonia_Xray_Detection_accuracy.png)
 
 # Training and validation loss:
-![loss](https://github.com/rakib1521/Face-Mask-Detection/blob/master/Training%20and%20validation%20loss.png)
+![loss](https://github.com/rakib1521/Pneumonia_Xray_Detection/blob/master/Photos/Pneumonia_Xray_Detection_loss.png)
 
 # output:
   ![result](https://github.com/rakib1521/Pneumonia_Xray_Detection/blob/master/Photos/Pneumonia_Xray_Detection_result.PNG)
